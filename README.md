@@ -1,2 +1,9 @@
 # simple-lua-shell
-Simple shell in Lua
+
+A simple shell written in Lua.
+
+## Usage
+
+```bash
+$ lua shell.lua
+```
